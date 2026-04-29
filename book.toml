@@ -1,0 +1,7 @@
+[book]
+title = "智能家居 + Agent 学习手册"
+language = "zh"
+src = "."
+
+[output.html]
+default-theme = "light"
